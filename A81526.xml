@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery of a horrible and bloody treason and conspiracie against the Protestants of this kingdome in generall, but especially against divers of the nobility, and many of the honourable House of Commons in Parliament, and also against some of the citizens of London. Which discovery was brought to the House of Commons on Munday Novemb. the 15.th, 1641. VVith a plot by the Earle of VVorcester in VVales. As also a relation of a search as Worcester-house in the Strand. Together with an order made by the Lords, for the apprehending of all priests and Iesuites, w[i]thin this city and kingdome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81526</idno>
+            <idno type="STC">Wing D1636</idno>
+            <idno type="STC">Thomason E176_12</idno>
+            <idno type="STC">ESTC R17769</idno>
+            <idno type="EEBO-CITATION">99860265</idno>
+            <idno type="PROQUEST">99860265</idno>
+            <idno type="VID">157095</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81526)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157095)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E176[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery of a horrible and bloody treason and conspiracie against the Protestants of this kingdome in generall, but especially against divers of the nobility, and many of the honourable House of Commons in Parliament, and also against some of the citizens of London. Which discovery was brought to the House of Commons on Munday Novemb. the 15.th, 1641. VVith a plot by the Earle of VVorcester in VVales. As also a relation of a search as Worcester-house in the Strand. Together with an order made by the Lords, for the apprehending of all priests and Iesuites, w[i]thin this city and kingdome.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first "i" in "within" is dropped down to the next line (line 19).</note>
+                  <note>On page [7]: "Die Lune 15. Novemb. 1641. An order of the Lords for the apprehending of Priests and Iesuites.", signed "Io. Browne Cler. Parliament."</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Worcester, Henry Somerset, --  Marquis of, 1577-1646 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  Early works to 1800.</term>
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157095:1"/>
+            <pb facs="tcp:157095:1" rendition="simple:additions"/>
+            <p>A DISCOVERY of a horrible and Bloody TREASON AND Conſpiracie: Againſt the <hi>Protestants</hi> of this Kingdome in generall, but eſpecially againſt divers of the Nobility, and many of the honourable Houſe of Commons in Parliament, and alſo againſt ſome of the Citizens of <hi>LONDON.</hi>
+            </p>
+            <p>Which Diſcovery was brought to the Houſe of COMMONS on Munday <hi>Novemb.</hi> the 15. th 1641.</p>
+            <p>VVith a Plot by the Earle of <hi>VVorceſter</hi> in VVales. <hi>As alſo a Relation of a Search at</hi> Worceſter-houſe <hi>in the</hi> Strand.</p>
+            <p>Together with an Order made by the Lords, for the Apprehending of all <hi>Prieſts</hi> and <hi>Ieſuites,</hi> w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thin this City and Kingdome.</p>
+            <p>LONDON, Printed for IOHN THOMAS. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:157095:2"/>
+            <pb facs="tcp:157095:2"/>
+            <head>TREASON diſcovered: OR An ample and reall Relation of a late horrible Plot and Conſpiracie againſt the Proteſtants of <hi>England,</hi> and in generall the Citizens of <hi>London</hi> in particular.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing intended to murther divers of the Nobility and many others of the Hono<g ref="char:EOLhyphen"/>rable Houſe of Commons in Parliament, taken by confeſſion, and examined by the Parliament, the 15. of <hi>Novemb.</hi> 1641. being Munday.</p>
+            <p>The Jnformation of <hi>Thomas Beale</hi> a Tay<g ref="char:EOLhyphen"/>lour living in <hi>VVhite-croſſe-ſtreet</hi> in Good<g ref="char:EOLhyphen"/>man <hi>VVarners</hi> houſe, delivered in Parlia<g ref="char:EOLhyphen"/>ment on Munday and Tueſday <hi>November</hi> 15, 16. 1641.</p>
+            <pb facs="tcp:157095:3"/>
+            <p>On the Sabbath day laſt the ſaid young man, late at night paſſing through <hi>Moore-Fields</hi> neere the City of <hi>London</hi> did over<g ref="char:EOLhyphen"/>heare certaine fellowes talking and whiſpe<g ref="char:EOLhyphen"/>ring together about their intended plot and machinations, the one of them ſaying that he had received 40. ſhillings in hand to murther divers perſons eminent in the houſe of Parliament, which he would ſhort<g ref="char:EOLhyphen"/>ly accompliſh, and another of them alſo made report that he had alſo received a lar<g ref="char:EOLhyphen"/>ger ſum me to doe the like enterpriſe upon ſome great perſons of the higher Houſe, w<hi rend="sup">ch</hi> pretended Plot of theirs, they verily ex<g ref="char:EOLhyphen"/>pected ſhould have taken effect on <hi>y<hi rend="sup">e</hi>
+               </hi> Thurſ<g ref="char:EOLhyphen"/>day night following, had not the Providence of Almighty God miraculouſly prevented the bloody deſigns of thoſe cruell and mer<g ref="char:EOLhyphen"/>cileſſe Papiſts: For it happened that thoſe miſcreant Traytors eſpying the ſaid young man in the darke, and fearing by him to be diſcovered made at him with their weapons and grievouſly wounded him, intending to deprive him of his ſweet life, which they had effected, had not the Divine Providence of God prevented in his good time by his eſcaping from them.</p>
+            <p>In which Conference of theirs hee alſo over-heard them to whiſper about ſome great plots or treacheries in <hi>VVales</hi> now in<g ref="char:EOLhyphen"/>tended againſt <hi>England,</hi> and that the three
+<pb facs="tcp:157095:3"/> next ſhires adioyning to <hi>Ragland</hi> Caſtle, were lately come in with all their forces to the aſſiſtance of the Earle of Worceſter.</p>
+            <p>And the ſayd young man co<g ref="char:cmbAbbrStroke">̄</g>ming before the Parliament houſe, really and trulie did relate the ſaid former paſſages with great modeſty and honeſt Confidence, moreover alledging that they intended the murther of many proteſtant Lords, with many other Gentlemen ſuch as Mr. <hi>Pym</hi> and the like, &amp; that the Papiſts in Wales intended to ſeaze into their hands all the ſtrong holds of <hi>Che<g ref="char:EOLhyphen"/>ſhire</hi> and <hi>Lancaſhire</hi> with the adjacent parts, and that in that hurly burly and Combuſtion the plot was ſo layd and contriued, that by the Papiſts at the ſame Jnſtant, the Cittie of <hi>London</hi> ſhould haue been ſurpriſed, and all the Proteſtants throats cut,</p>
+            <p>Upon which Relation the Houſes of Par<g ref="char:EOLhyphen"/>liament ſate very late on Munday night laſt, and the Lords and others of both Houſes were conducted to their Lodgings and hou<g ref="char:EOLhyphen"/>ſes by moſt of the trained Bands in <hi>Middle<g ref="char:EOLhyphen"/>ſex</hi> the ſame night.</p>
+            <p>On the morrow very early, both Houſes met, where upon ſerious deliberation, it was immediately concluded that the Houſe of the ſaid Earle of Worceſter ſcituate in the Strand in the liberties of Weſtminſter, ſhould bee by ſtrong watch guarded both by land and water, and that ſtrickt ſearch
+<pb facs="tcp:157095:4"/> ſhould be made in the ſaid houſe for the ap<g ref="char:EOLhyphen"/>prehending of the perſons of Father <hi>An<g ref="char:EOLhyphen"/>drewes</hi> and father <hi>Iones</hi> in the houſe of the Lord <hi>Herberts,</hi> Sonne and heire to the fore<g ref="char:EOLhyphen"/>ſaid Lord of <hi>VVorceſter</hi> and divers other ſu<g ref="char:EOLhyphen"/>ſpicious perſons, ſuppoſed to be Confede<g ref="char:EOLhyphen"/>rate in that wicked and moſt Diabolicall deſigne, who are thought alſo to be lur<g ref="char:EOLhyphen"/>king in the ſaid houſe, which ſearch was ac<g ref="char:EOLhyphen"/>cordingly performed the ſame day about eleven a clock in the fore-noone.</p>
+            <p>The ſaid Father <hi>Iones</hi> eſcaped out of a back doore into the Savoy, and father <hi>An<g ref="char:EOLhyphen"/>drewes</hi> was taken in the <hi>French</hi> Ordinary over againſt the Lord <hi>Herberts</hi> houſe and is now in cuſtody.</p>
+            <p>There are divers warrants gone out to the Lord Major of the City of <hi>London,</hi> for the apprehending of divers other ſuſpitious perſons.</p>
+         </div>
+         <div type="arrest_warrant">
+            <pb facs="tcp:157095:4"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Lune</hi> 15. <hi>Novemb.</hi> 1641.</date>
+               </dateline>
+            </opener>
+            <head>An Order of the Lords for the Apprehending of <hi>Prieſts</hi> and <hi>Ieſuites.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day Orde<g ref="char:EOLhyphen"/>red by the Lords in Parliament; That Father <hi>Iones,</hi> and Father <hi>Andrewes,</hi> and all other Ro<g ref="char:EOLhyphen"/>miſh Prieſts and Jeſuites ſhall bee forthwith taken and apprehended by his Majeſties Juſtices of Peace and others his Majeſties Officers, and put into ſafe cuſtody untill the pleaſure of this Houſe be further known, and then the in names ſhall be returned unto the Lords in Parliament, and that any man that ſhall diſ<g ref="char:EOLhyphen"/>cover any Popiſh Prieſts or Jeſuites and procure them to be apprehended; ſhall bee rewarded by the Parliament.</p>
+            <closer>
+               <signed>Io. Browne Cler. Parliament.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
